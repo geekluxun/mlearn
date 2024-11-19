@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-core
+langchain_openai
+langchain-ollama
+langchain-milvus

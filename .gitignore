@@ -1,3 +1,5 @@
 *.db
 *.db.lock
 .idea
+*.bin
+*.pkl
