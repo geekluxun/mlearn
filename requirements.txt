@@ -7,3 +7,5 @@ langchain-milvus
 langchain-huggingface
 fastapi
 uvicorn
+modelscope
+langgraph
